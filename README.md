@@ -18,6 +18,6 @@ There's a WIP list of Samsung devices with Broadcom Kona chipsets available [und
 
 The following downstream kernel versions are currently known:
 
-- [Navigating around the downstream kernel (BCM23550 Sony(?)/Google androidsource.google.com 3.10 release)](downstream/layout-3.10.md)
+- [Navigating around the downstream kernel (BCM23550 Sony/Google androidsource.google.com 3.10 release)](downstream/layout-3.10.md)
 - [Navigating around the downstream kernel (BCM21664/BCM23550 Samsung 3.4 release)](downstream/layout-3.4.md)
 - [Navigating around the downstream kernel (BCM21855/BCM21654 Samsung 3.0 release)](downstream/layout-3.0.md)
