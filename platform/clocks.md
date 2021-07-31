@@ -173,7 +173,7 @@ It's worth noting that both of these clocks have their frequency set to 312MHz r
 - Frequency: 624MHz
 - Operations: ``&en_8ph_pll1_ref_clk_ops``
 
-There's an erratum for disabling 8phase(?) (``CONFIG_PLL1_8PHASE_OFF_ERRATUM``). This config option appears to be enabled on the Samsung Galaxy Grand Neo (baffinlite).
+There's an erratum that has something to do with this clock (``CONFIG_PLL1_8PHASE_OFF_ERRATUM``). This config option appears to be enabled on the Samsung Galaxy Grand Neo (baffinlite).
 
 Also, this clock has its own initialization function (``en_8ph_pll1_clk_enable``).
 
