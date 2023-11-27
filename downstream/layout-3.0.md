@@ -1,4 +1,4 @@
-# Navigating around the downstream kernel (BCM21855/BCM21654 Samsung 3.0 release)]
+# Navigating around the downstream kernel (BCM21654/BCM28155 Samsung 3.0 release)]
 
 You're on your own.
 
